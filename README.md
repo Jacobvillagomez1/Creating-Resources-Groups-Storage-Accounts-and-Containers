@@ -1,6 +1,6 @@
 # Creating Resources Groups, Storage Account, and Containers
 <p align="center">
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Jacobvillagomez1/Creating-Resources-Groups-Storage-Accounts-and-Containers/assets/143027686/76848602-0ddb-4e2d-8ad3-cc987b43c172"/>
 </p>
 
 <h1>Creating Resources Groups, Storage Account, and Containers in Azure</h1>
