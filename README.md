@@ -14,7 +14,6 @@ In this tutorial, we create a Resource Group in Microsoft Azure then we will put
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Resoruce Groups / Storage Accounts / Containers)
-- Remote Desktop 
 
 
 <h2>Operating Systems Used </h2>
