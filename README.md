@@ -9,7 +9,7 @@ In this tutorial, we create a Resource Group in Azure then we will put a Storage
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: Azure Virtual Machines, Wireshark, and Network Security Groups](https://www.youtube.com)
+- ### [YouTube: Azure Virtual Machines, Wireshark, and Network Security Groups](https://youtu.be/CRi-_34rD-Y)
 
 <h2>Environments and Technologies Used</h2>
 
