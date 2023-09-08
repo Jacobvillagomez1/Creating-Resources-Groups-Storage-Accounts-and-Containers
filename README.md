@@ -9,7 +9,7 @@ In this tutorial, we create a Resource Group in Microsoft Azure then we will put
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: Lab 1 : Creating Resources Groups Storage Accounts and Containers](https://youtu.be/CRi-_34rD-Y)
+- ### [YouTube: Lab 1 : Creating Resources Groups, Storage Accounts, and Containers](https://youtu.be/CRi-_34rD-Y)
 
 <h2>Environments and Technologies Used</h2>
 
